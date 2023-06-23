@@ -1,0 +1,33 @@
+{
+  "name": "01-fullstack-nextjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vizzacchi/01-fullstack-nextjs.git"
+  },
+  "author": "Douglas Jorge Vizzacchi <douglas@vizzacchi.com.br>",
+  "license": "MIT",
+  "description": "...",
+  "bugs": {
+    "url": "https://github.com/vizzacchi/01-fullstack-nextjs/issues"
+  },
+  "homepage": "https://github.com/vizzacchi/01-fullstack-nextjs#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "dependencies": {
+    "next": "^13.4.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "@types/react": "18.2.13",
+    "typescript": "5.1.3"
+  }
+}
